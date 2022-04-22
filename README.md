@@ -12,4 +12,7 @@
 
 
 git clone https://github.com/Xsarjame/RIP_TANGMO_NIDA
+ 
+cd RIP_TANGMO_NIDA
 
+python3 melonp.py
