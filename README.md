@@ -11,3 +11,5 @@
 ![Dtbezn3nNUxytg04abmGQjlytjztNCXU9PkuFiVV3apd8L](https://user-images.githubusercontent.com/96361084/164585518-5c87ff4b-840b-4a6d-9999-e9f9bcfa6980.jpg)
 
 
+git clone https://github.com/Xsarjame/RIP_TANGMO_NIDA
+
